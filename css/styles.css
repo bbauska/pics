@@ -423,18 +423,18 @@ body {
 .credits-active .example-slider {
   transform: translate3d(-400px, 0, 0) rotateY(10deg) scale(0.9);
 }
-/**  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/blackwidow.jpg"); */
+/**  background-image: url("https://github.com/bbauska/pictures/blob/main/bro-sis.jpg"); */
 .example-slider .fnc-slide-1 .fnc-slide__inner,
 .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/blackwidow.jpg");
+  background-image: url("https://github.com/bbauska/pictures/blob/main/feb12-2025-PrettyGirl-Bubbies-Sleeping-big.jpg");
 }
 .example-slider .fnc-slide-2 .fnc-slide__inner,
 .example-slider .fnc-slide-2 .fnc-slide__mask-inner {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/captainamerica.jpg");
+  background-image: url("https://github.com/bbauska/pictures/blob/main/Feb-2025-Ronnie-Bubbies-photogenice-big.jpg");
 }
 .example-slider .fnc-slide-3 .fnc-slide__inner,
 .example-slider .fnc-slide-3 .fnc-slide__mask-inner {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/ironman-alt.jpg");
+  background-image: url("https://github.com/bbauska/pictures/blob/main/Feb12-25--PrettyGirl-sleep-big.jpg");
 }
 .example-slider .fnc-slide-3 .fnc-slide__inner:before {
   content: "";
@@ -447,7 +447,7 @@ body {
 }
 .example-slider .fnc-slide-4 .fnc-slide__inner,
 .example-slider .fnc-slide-4 .fnc-slide__mask-inner {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/thor.jpg");
+  background-image: url("");
 }
 .example-slider .fnc-slide-4 .fnc-slide__inner:before {
   content: "";
@@ -465,7 +465,7 @@ body {
 }
 
 /* COLORFUL SWITCH STYLES 
-   ORIGINAL DEMO - https://codepen.io/suez/pen/WQjwOb */
+   ORIGINAL DEMO - https://codepen.io/bbauska/pen/ */
 .colorful-switch {
   position: relative;
   width: 180px;
