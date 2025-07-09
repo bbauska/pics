@@ -436,7 +436,7 @@ body {
   background-image: url("../images/Feb12-25-PrettyGirl-sleep-big.jpg");
 }
 .example-slider .fnc-slide-3 .fnc-slide__inner:before {
-  content: "../images/blue-eyed-girl.jpg";
+  content: "../images/Feb12-25-PrettyGirl-sleep-big.jpg";
   position: absolute;
   left: 0;
   top: 0;
@@ -446,10 +446,10 @@ body {
 }
 .example-slider .fnc-slide-4 .fnc-slide__inner,
 .example-slider .fnc-slide-4 .fnc-slide__mask-inner {
-  background-image: url("./images/PrettyGirl-coveringNose-big.jpg");
+  background-image: url("../images/PrettyGirl-coveringNose-big.jpg");
 }
 .example-slider .fnc-slide-4 .fnc-slide__inner:before {
-  content: "";
+  content: "../images/PrettyGirl-coveringNose-big.jpg";
   position: absolute;
   left: 0;
   top: 0;
