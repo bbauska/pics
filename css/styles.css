@@ -423,9 +423,10 @@ body {
 .credits-active .example-slider {
   transform: translate3d(-400px, 0, 0) rotateY(10deg) scale(0.9);
 }
+/**  background-image: url("../images/feb12-2025-PrettyGirl-Bubbies-Sleeping-big.jpg"); */
 .example-slider .fnc-slide-1 .fnc-slide__inner,
 .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
-  background-image: url("../images/feb12-2025-PrettyGirl-Bubbies-Sleeping-big.jpg");
+  background-image: url("../images/image001.jpg");
 }
 .example-slider .fnc-slide-2 .fnc-slide__inner,
 .example-slider .fnc-slide-2 .fnc-slide__mask-inner {
