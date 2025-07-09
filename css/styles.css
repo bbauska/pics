@@ -426,7 +426,7 @@ body {
 /**  background-image: url("../images/feb12-2025-PrettyGirl-Bubbies-Sleeping-big.jpg"); */
 .example-slider .fnc-slide-1 .fnc-slide__inner,
 .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
-  background-image: url("../images/image001.jpg");
+  background-image: url("../images/image001.png");
 }
 /**  background-image: url("../images/Feb-2025-Ronnie-Bubbies-photogenic-big.jpg");  */
 .example-slider .fnc-slide-2 .fnc-slide__inner,
@@ -437,7 +437,7 @@ body {
 /**  content: "../images/Feb12-25-PrettyGirl-sleep-big.jpg";  */
 .example-slider .fnc-slide-3 .fnc-slide__inner,
 .example-slider .fnc-slide-3 .fnc-slide__mask-inner {
-  background-image: url("../images/image002.jpg");
+  background-image: url("../images/image002.png");
 }
 .example-slider .fnc-slide-3 .fnc-slide__inner:before {
   content: "../images/image002.jpg";
@@ -451,11 +451,11 @@ body {
 /**  background-image: url("../images/PrettyGirl-coveringNose-big.jpg");  */
 .example-slider .fnc-slide-4 .fnc-slide__inner,
 .example-slider .fnc-slide-4 .fnc-slide__mask-inner {
-  background-image: url("../images/image004.jpg");
+  background-image: url("../images/image004.png");
 }
 /**  content: "../images/PrettyGirl-coveringNose-big.jpg";  */
 .example-slider .fnc-slide-4 .fnc-slide__inner:before {
-  content: "../images/image004.jpg";
+  content: "../images/image004.png";
   position: absolute;
   left: 0;
   top: 0;
