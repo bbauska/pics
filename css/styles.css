@@ -440,7 +440,7 @@ body {
   background-image: url("../images/image011-03.jpg");
 }
 .example-slider .fnc-slide-3 .fnc-slide__inner:before {
-  content: "../images/image011-02.jpg";
+  content: "../images/image011-03.jpg";
   position: absolute;
   left: 0;
   top: 0;
